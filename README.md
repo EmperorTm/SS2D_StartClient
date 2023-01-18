@@ -5,7 +5,7 @@
 - This script helps you run agents & coach in SS2D(Soccer Simulation2D).
 
 
-- Make sure you have the "start" file in you team directory.
+- Make sure you have the "start" file in your team directory.
 
 
 # How to use
@@ -13,7 +13,7 @@
 First download this file.
 
 If you are using this script for the first time, you have to give it the
-permission to execute by typing the following command in the terminal :
+permission to execute by typing the following command in terminal :
 ```
 chmod +x StartClient
 ```
