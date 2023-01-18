@@ -1,6 +1,6 @@
 
 # SrartClient
-
+![license](https://img.shields.io/github/license/EmperorTm/SS2D_StartClient)
 
 - This script helps you run agents & coach in SS2D(Soccer Simulation2D).
 
